@@ -21,7 +21,7 @@ const HeroSection = () => {
         {/* <p className='text-md sm:text-lg w-[280px] sm:w-[380px] md:w-[500px] font-normal text-text-color mt-5 dark:text-text-color-dark'>Innovative, memorable, and investment-worthy gifts  at <span className='text-orange-600'>BTCGiftShop</span></p> */}
         </div>
         <div className='flex justify-center items-center lg:justify-start'>
-          <Link href='prepare_for_launch' className='rounded-[64px] w-fit h-auto bg-first-color px-12 py-5 text-[15px] xs:text-[16px] font-medium text-white mt-10 cursor-pointer'>Explore Gifts</Link>
+          <Link href='https://app.btcgiftshop.xyz/' className='rounded-[64px] w-fit h-auto bg-first-color px-12 py-5 text-[15px] xs:text-[16px] font-medium text-white mt-10 cursor-pointer'>Explore Gifts</Link>
         </div>
       </div>
     </div>

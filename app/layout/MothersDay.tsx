@@ -46,7 +46,7 @@ const MothersDay: React.FC = () => {
           </div>
         </div>
         <div className='flex justify-center items-center'>
-          <Link href='prepare_for_launch' className='rounded-[64px] w-fit h-auto bg-first-color px-12 py-4 text-[15px] xs:text-[16px] font-medium text-white mt-20 cursor-pointer'>
+          <Link href='https://app.btcgiftshop.xyz/' className='rounded-[64px] w-fit h-auto bg-first-color px-12 py-4 text-[15px] xs:text-[16px] font-medium text-white mt-20 cursor-pointer'>
             Start Giving
           </Link>
         </div>
